@@ -1,4 +1,4 @@
-# Message Looper (Windows)
+# Message Looper (Only For Windows)
 With this program you can loop messages many times weather on whatsapp, Messenger or any platform.
 
 <center>
