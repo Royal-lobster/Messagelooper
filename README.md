@@ -5,5 +5,5 @@ With this program you can loop messages many times weather on whatsapp, Messenge
 <img src="./interface.png"/>
 </center>
 
-# Download:
+## Download:
 <a href="https://github.com/Royal-lobster/messagelooper-Python/raw/master/dist/MessageLooper.exe">Click here to Download the Application</a>
