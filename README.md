@@ -10,6 +10,16 @@ With this program you can loop messages many times weather on whatsapp, Messenge
 ## Download:
 <a href="https://github.com/Royal-lobster/messagelooper-Python/raw/master/dist/MessageLooper%20(SETUP).exe">Click here to Download the Application</a>
 
+## Instructions:
+1. Write a Message in the message box
+2. Set the number of times the message must be sent
+3. Select time delay in between two messages
+4. Press Start button
+5. Select the text field in your prefered messageing app
+6. Press "s" to start the looper
+**THATS IT!**
+Note: IF YOU WANT TO ABORT THE PROGRAM PRESS "q" 
+
 ## LICENSE
 Copyright 2020 Srujan Gurram
 
