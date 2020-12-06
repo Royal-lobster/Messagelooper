@@ -40,7 +40,7 @@ Label(root, text="Message Looper", font='Helvetica 18 bold',
 def open_instructions():
     instructions = Toplevel()
     instructions.configure(bg='#222222')
-    Label(instructions, text="STEP 1 : Write a Message in the field given below\nSTEP 2 : Click on start button \nSTEP 3 : Select the text field in your prefered messaging app.\nSTEP 4: Set the number of times the message must be sent and time delay in between two messages \nSTEP 5 : press \"s\" to start the looper \n\nIF YOU WANT TO ABORT THE PROGRAM PRESS \"q\".",
+    Label(instructions, text="STEP 1 : Write a Message in the field given below\nSTEP 2 : Set the number of times the message must be sent\nSTEP 3 : Select time delay in between two messages\nSTEP 4 : Press Start Button\nSTEP 5 : Select the text field in your prefered messaging app.\nSTEP 5 : press \"s\" to start the looper\n\nIF YOU WANT TO ABORT THE PROGRAM PRESS \"q\".",
           anchor="e", justify=LEFT, bg='#222222', fg='#eeeeee', padx=20, pady=20).pack()
     instructions.mainloop()
 
