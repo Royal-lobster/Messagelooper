@@ -1,11 +1,11 @@
 # Message Looper (Only For Windows)
 With this program you can loop messages many times weather on whatsapp, Messenger or any platform.
 
-<center>
+<p align="center">
   
 <img src="./interface.png"/>
 
-</center>
+</p>
 
 ## Download:
 <a href="https://github.com/Royal-lobster/messagelooper-Python/raw/master/dist/MessageLooper%20(SETUP).exe">Click here to Download the Application</a>
