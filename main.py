@@ -25,7 +25,7 @@ def StartWriting(times, speed):
 # WINDOW ARANGEMENTS
 root = Tk()
 root.configure(bg='#222222')
-root.iconbitmap(r'C:\Projects\Message Looper\icon.ico')
+root.iconbitmap("./icon.ico")
 root.title("Message Looper")
 root.minsize(150, 100)
 root.resizable(False, False)
