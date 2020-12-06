@@ -18,6 +18,7 @@ With this program you can loop messages many times weather on whatsapp, Messenge
 5. Select the text field in your prefered messageing app
 6. Press "s" to start the looper
 **THATS IT!**
+
 Note: IF YOU WANT TO ABORT THE PROGRAM PRESS "q" 
 
 ## LICENSE
